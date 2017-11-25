@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "History along with CS"
-date:       2017-11-25 21:41:16 +0000
+date:       2017-11-25 16:41:16 -0500
 permalink:  history_along_with_cs
 ---
 
+To put it simply, what is my tech history? and where am I in the journey?
 
 I'm not sure that which name is the most cool and accurate name to call us, but obviously computer science is one of the best terms to embrace all of skills and technology along its history. Before the internet came to us, computer existed, and it was usually developed and researched by scientist in academic area. But now, in 2017, absolutely, it exists everywhere.
 
