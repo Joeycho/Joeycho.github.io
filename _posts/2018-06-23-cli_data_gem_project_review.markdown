@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data gem project review"
-date:       2018-06-23 11:47:40 +0000
+date:       2018-06-23 07:47:40 -0400
 permalink:  cli_data_gem_project_review
 ---
 
@@ -14,4 +14,4 @@ After checking environment, start to develop the code, and debug the code togeth
 
 After finishing coding, last thing is uploading the project to the github. This process is reccommended to intervene before in the middle of coding. Because, it helps the other programmer be able to understand the history of the code, how the code is developed. In the working folder, `git init`, and `git status` to check, and `git add .` to add the changes,  `git ci -m  "Send message"` to commit with the message. After these three step, `git push origin master`, to upload the folder in github. I'm still unsure that how origin, master, all the branches is working, but until now, at least I could do push origin to master(both branch looks default) to upload my work into github web. 
 
-There are still something I want to clearly know about how to control `the git`, and In my code, how `gem` is installed in each computer, and is started to be worked.  But at least, I start to be in the workflow to make first project with github and ruby.
+There are still something I want to clearly know about how to control `the git`, and In my code, how `gem` is installed in each computer, and is started to be worked.  But at least, I started to be in the workflow to make first project with github and ruby.
