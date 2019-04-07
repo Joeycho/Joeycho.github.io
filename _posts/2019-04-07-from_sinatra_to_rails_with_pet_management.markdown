@@ -12,7 +12,7 @@ Now, I've moved to Rails. Ruby on Rails, I heard this one even before I started 
 
 Okay, I will start walk-through on this project. `rails init` created basic structure of the project. I adopted the `pet-management system` in this rails project as I did in Sinatra, but I implemented a bit different scheme in this project. I abandoned `owner as one model with two types, such as normal and shelter` and chose `owner and clinic as each model` with `pet` model, of course :) The below is the diagram which made by `rails-erd`.
 
-<iframe src="https://drive.google.com/file/d/1lW21DBalrJ0zfAn6nezbjD9cEyab9VvC/preview" width="640" height="480"></iframe>
+<img src="https://github.com/Joeycho/rails-pet-management-system/blob/master/model.png" alt="" class="img-responsive">
 
 With my effort to fullfill the requirement, I also implemented `the nav` in the top in my application. The feedback from sinatra project reminded me of that `nav` will help viewers to understand application better.
 
