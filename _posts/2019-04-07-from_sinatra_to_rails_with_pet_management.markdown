@@ -14,6 +14,8 @@ Okay, I will start walk-through on this project. `rails init` created basic stru
 
 <img src="https://raw.githubusercontent.com/Joeycho/rails-pet-management-system/master/model.png" alt="" class="img-responsive">
 
+![Entity-Relationship Diagram](https://voormedia.github.io/rails-erd/images/entity-relationship-diagram.png)
+
 With my effort to fullfill the requirement, I also implemented `the nav` in the top in my application. The feedback from sinatra project reminded me of that `nav` will help viewers to understand application better.
 
 So, the application starts with login or signup from user. And then, create some pets in each owner, and each pet should be assigned to one clinic. Have you heard `GP` system in our real life? When I was in Norway, everyone should be assigned to one `GP` to check their health status. GP is responsible to guide them to get right practice in terms of health issue. As we are, pets also should be assigned to one clinic. That was my motivation to implement this function in this system.
