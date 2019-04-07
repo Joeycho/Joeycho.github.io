@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "From sinatra to Rails with pet management"
-date:       2019-04-07 11:11:58 +0000
+date:       2019-04-07 07:11:59 -0400
 permalink:  from_sinatra_to_rails_with_pet_management
 ---
 
 
 My starting with this project was `rails init`. This means a lot for me. Sinatra framework was a test or education version of the real one for me. I am not sure that whether it is still publishable only with the Sinatra, but I could feel that I was in education when I've done my project in sinatra. However, I really appreciate that Sinatra helped me to understand MVC model in a practical way and I was proud of my first sinatra project which started from the scratch. Literally, I built the structure with files and folders.
 
-Now, I've moved to Rails. Ruby on Rails, I heard this one even before I started this full-stack development program. I am so proud of myself to understand this framework, and it was desireable to finish each lab and lessons even though I sometimes confronted hard time during learning. Yes, I learned `Ralils` and now I can say myself, not a beginner in the web development environment. I feel so good with this project even though I still understand that I am still not enough.
+Now, I've moved to Rails. Ruby on Rails, I heard this one even before I started this full-stack development program. I am so proud of myself to understand this framework, and it was desireable to finish each lab and lessons even though I sometimes confronted hard time during learning. Yes, I learned `Rails` and now I can say myself, not a beginner in the web development environment. I feel so good with this project even though I still understand that I am still not enough.
 
 Okay, I will start walk-through on this project. `rails init` created basic structure of the project. I adopted the `pet-management system` in this rails project as I did in Sinatra, but I implemented a bit different scheme in this project. I abandoned `owner as one model with two types, such as normal and shelter` and chose `owner and clinic as each model` with `pet` model, of course :) The below is the diagram which made by `rails-erd`.
 
