@@ -1,15 +1,14 @@
 # Site settings
+author: Joey Adam Cho
 title: Unique & creative traveler
 header-img: img/home-bg.png
 email: cjy12182000@naver.com
-copyright_name: Joeycho
+copyright_name: Joey Adam Cho
 description: > # this means to ignore newlines until "baseurl:"
-  Interest in : Web development & Neural Network
+  Interest in : Web development | Machine Learning | Computer Vision
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Joeycho
-learn_profile: Joeycho
-email_username: cjy12182000@naver.com
 
 # Build settings
 markdown: kramdown
